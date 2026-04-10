@@ -1,7 +1,9 @@
 <p align="center">
 <img width="152" height="152" src="https://github.com/user-attachments/assets/9f6953de-0437-4435-a817-3a7619a6af09"><br>
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Cryakl/Ultimate-RAT-Collection"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Cryakl/Ultimate-RAT-Collection">
-</p> <h1 align="center">Archive password: infected</h1><br>
+</p> <!-- com3b4ck, you'll never become a contributor like me, i paid cryakl 10k pesos to become a contributor. --!>
+
+<h1 align="center">Archive password: infected</h1><br>
 
 > [!CAUTION]
 > These samples should **not** be run on any machine with data you care about.  
